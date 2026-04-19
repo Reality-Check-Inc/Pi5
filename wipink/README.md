@@ -227,3 +227,9 @@ To see logs
 ```bash
 journalctl -u wipink.service -f
 ```
+
+## Info
+
+[Where to Buy](https://www.adafruit.com/product/6366)
+
+![Adafruit 2.13 Quad-Color E-Ink Display](6366-07.jpg)
